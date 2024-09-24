@@ -1,22 +1,50 @@
 ---
-title: GISB · 馬來西亞最大件兒童剝削案件，我們能學到什麽？
+title: GISB · 事件時間綫
 published: 2024-09-25
 tags: [GISB,整理,報道]
 category: 整理
 draft: false
 ---
 
-# This Article is a Draft
+:::note[閲讀之前請注意！]
+此案件尚未被調查清楚，在調查完成之前應當被認爲無罪。  
+此文章僅爲整理以及補上關於作者的看法。
+:::
 
-This article is currently in a draft state and is not published. Therefore, it will not be visible to the general audience. The content is still a work in progress and may require further editing and review.
+# 什麽是 GISB
+GISB 是一個公司 (GISB Holding SDN. BHD) 的縮寫名稱，爲方便稱呼則直接稱爲 GISB。  
+該公司是** Kumpulan Al-quram 的一個支綫組織**，而 Al-quram 組織**在 1970 年代在吉隆坡中的一個村莊 (Kampung Datuk Keramat) 一帶活躍**，并且在 **Sungai Pencala 設立了屬於自己的伊斯蘭教村莊**。  
+在這個村莊中，也有**許多基本的設施**，如醫院，學校，商店以及稻田等等。**所以他們的東西都是清真 (Halal) 的**。  
+但該組織與 1994 年被法院判爲邪教組織，即代表他們**不能夠用宗教名義來宣傳自己的教義。**  
+而他們的解決方法就是使用 Global Ikhwan (GISB) 來進行活動。  
 
-When the article is ready for publication, you can update the "draft" field to "false" in the Frontmatter:
+此組織也使用宗教名義，并且也成爲了一個商業帝國。在全馬來西亞都有屬於自己的商店，并且也包含各行各業。甚至他們也擴大到了外國的範圍，那時候還是會對他們抱有佩服之心。  
 
-```markdown
----
-title: Draft Example
-published: 2024-01-11T04:40:26.381Z
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: false
----
+# 事件起因
+2011 年 (13年前)
+> 此時間是縂警長在記者會説明的開始調查時間。
+
+2024年 2月 26日
+> 網紅 Caprice 開設的 Podcast 頻道中，邀請前組織的知情人士分享了自己在這個組織看見的惡行
+> 也有許多的網民在下面分享自己的經驗。
+
+2024年 5月
+> 有宗教學者與玻璃市的宗教司 (Datuk Dr. Mohd Asri Zainul Abidin) 投訴該組織的濫權等傷害宗教的事情。
+> 該宗教學者在接獲后也開始進行調查，并且把許多的資料都上傳至自己的社交媒體上。并且該宗教司也是在抖音上算得上熱門的創作者。
+> 他也會在他的演講時提到該組織也有許多的幫派文化，覺得自己揭露他們的行爲會讓給自己陷入生命危險當中。
+
+> 此時也有一個粉絲專頁出現了，名爲 Pusat Kajian Ajaran Sesat (PUKAS)，也俗稱為邪教研究中心。這個粉絲專頁是專門研究邪教的行爲，包括此事件的主角 — GISB。他們也在日後警方調查也給予非常多的幫助。
+
+2024年 8月 29日
+> GISB 的 CEO，要求該宗教司對他們進行道歉的舉動。并且揚言如果在這時候不道歉，將會采取法律行動，也就是告該宗教司誹謗他們的公司。
+
+2024年 9月 4日
+> GISB 的 CEO 前往最一開始的網紅，也就是 Caprice 的 Podcast 頻道中進行解釋的部分。
+> Caprice 也找了受害者來與 CEO 一起進行對峙。在該節目中，他也説他們會調查，他也希望自己可以與宗教部部長見面
+> 此影片的留言則對該 CEO 還是保留了負面的形象，也有些人覺得他在對峙過程中出現泰國强勢的行爲。
+
+> 也有民衆聯絡了通訊部部長的特別助理們來揭發此案件，而國家也開始重視此事件的發酵。
+> 助理們也收集資料后也直接聯絡縂警長來進行投報
+
+2024年 9月 11日
+> 全囯縂警長召開記者會，稱有 20 個兒童之家被警方搜查，救出 402 位兒童
