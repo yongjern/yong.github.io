@@ -18,16 +18,16 @@ draft: false
 ## 2024年8月2日
 > **马哥打选区代表宣告病逝**，即代表补选**小型选举 (Pilihan Raya Kecil,PRK) 即将在该地区举行**。  
 > **柔佛周州务大臣拿督翁哈菲兹 (Datuk Onn Hafiz Ghazi) (以下简称柔佛州务大臣) 也对此表示惋惜，并表示该代表的病逝对于柔佛周是一个损失。**[^4]
-[^4] 采自新洲日报 Xinchew Daily : [点我查看原版本](https://www.sinchew.com.my/?p=5809519)
+[^4]: 采自新洲日报 Xinchew Daily : [点我查看原版本](https://www.sinchew.com.my/?p=5809519)
 
 ## 2024年8月4日
 > 选举委员会排定 **8月13日** 开启特别会议来商讨接下来的马哥打选区补选。[^5]  
 > 并且根據柔佛州憲法，需要在近期内安排補選來進行補選。(詳情請看注釋 3)
-[^5] 采自新州日報 Xinchew Daily : [點我查看原版本](https://www.sinchew.com.my/?p=5837298)
+[^5]: 采自新州日報 Xinchew Daily : [點我查看原版本](https://www.sinchew.com.my/?p=5837298)
 
 ## 2024年8月5日 -> 2024年8月12日
 > 居鑾誠信黨記者會上宣佈自己將會上陣接下來的馬哥打補選，但最後沒有什麽消息。[^6]  
-[^6] 采自新州日報 Xinchew Daily : [點我查看原版本](https://johor.sinchew.com.my/news/20240805/johor/5816598?pk_vid=93a1beed0577208f1727457745278af1)
+[^6]: 采自新州日報 Xinchew Daily : [點我查看原版本](https://johor.sinchew.com.my/news/20240805/johor/5816598?pk_vid=93a1beed0577208f1727457745278af1)
 
 ## 2024年8月13日
 > 選舉委員會確定選舉時間。候選人提名日為 9月14日，提前投票日為 9月24日，投票日為 9月28日。[^7]
