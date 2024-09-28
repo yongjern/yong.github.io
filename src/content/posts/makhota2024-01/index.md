@@ -25,4 +25,4 @@ draft: false
 截至至下午 1:00，在選民中已經有 33.97% 完成他們的公民義務，即代表已經達成三分之一選民參加此選舉，但僅超過一部分而已。
 
 ## 實時開票 · JOHORfm
-<iframe width="100%" height="468" src="[https://www.youtube.com/embed/5gIf0_xpFPI?si=N1WTorLKL0uwLsU_](https://www.youtube.com/live/02e4My-3Iw8)" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/02e4My-3Iw8?si=l1g-S4XxfjJKGQ42&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
