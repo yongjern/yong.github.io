@@ -27,6 +27,10 @@ draft: false
 ## 2024年9月24日 下午4:00
 截至至下午 3:00，在選民中已經有 43.44% 完成他們的公民義務，并未達到一半的選民到場參加這次的補選。
 
+## 2024年9月24日 下午4:00 - 下午 9:00
+截至至下午 3:00，在選民中已經有 43.44% 完成他們的公民義務，并未達到一半的選民到場參加這次的補選。
+晚上 9 時，國陣候選人票數為 25,383 票，囯盟候選人票數為 6,672 票，共領先 18,711 票。
+
 ## 實時開票 · JOHORfm
-【晚上9時更新】國陣候選人獲取票數為 25,383 票，囯盟候選人票數則爲 6,672 票，共領先 18,711 票。
+【正式宣佈成績】
 <iframe width="560" height="315" src="https://www.youtube.com/embed/02e4My-3Iw8?si=l1g-S4XxfjJKGQ42&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
