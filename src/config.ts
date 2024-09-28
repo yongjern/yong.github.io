@@ -39,9 +39,9 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
-      external: true,                               // Show an external link icon and will open in a new tab
+      name: 'NOW · 馬哥打補選',
+      url: 'https://jieern.serveblog.net/posts/makhota2024-01/',     // Internal links should not include the base path, as it is automatically added
+      external: false,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
