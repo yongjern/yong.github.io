@@ -1,6 +1,8 @@
 ---
 title: GISB · 事件時間綫
 published: 2024-09-25
+description: "馬來西亞最大的商業帝國危機 · GISB 到底還要繼續鬧出怎麽樣的悲劇呢？ · 調查還在進行中。"
+image: "./cover.jpeg"
 tags: [GISB,整理,報道]
 category: 整理
 draft: false
