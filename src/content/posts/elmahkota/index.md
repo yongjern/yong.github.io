@@ -2,7 +2,7 @@
 title: Mahkota · 馬哥打補選，陪你一起看！
 published: 2024-09-28
 description: "馬哥打選區補選投票日報道 · 已結束"
-image: "./cover.jpeg"
+image: "./new-cover.jpeg"
 tags: [Mahkota, 報道, 補選, 馬來西亞]
 category: 報道
 draft: false
