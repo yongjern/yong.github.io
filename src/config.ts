@@ -8,7 +8,7 @@ import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
   title: 'Yong',
-  subtitle: '避難小屋',
+  subtitle: '資料研究所',
   lang: 'zh_TW',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
     hue: 0,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -47,7 +47,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/logo.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Yong',
   bio: '關於我？其實上面可以看到關於我的事情噢！',
   links: [
