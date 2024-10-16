@@ -39,9 +39,9 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'NOW · 馬哥打補選',
-      url: 'posts/makhota2024-01/',     // Internal links should not include the base path, as it is automatically added
-      external: false,                               // Show an external link icon and will open in a new tab
+      name: '即刻加入 Telegram 频道',
+      url: 'https://t.me/jieernblog',     // Internal links should not include the base path, as it is automatically added
+      external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
@@ -49,7 +49,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/logo.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Yong',
-  bio: '關於我？其實上面可以看到關於我的事情噢！',
+  bio: '17years / Malaysian.',
   links: [
     {
       name: 'Twitter',
