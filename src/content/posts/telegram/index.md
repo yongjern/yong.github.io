@@ -1,10 +1,9 @@
 ---
-title: Telegram 快报 · 更新快报
-published: 202a-10-17
-description: 在 Telegram 频道上更新的快报
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
+title: Telegram · 内容正在加载中
+published: 2024-10-17
+description: "更新在 Telegram 中发出的内容。"
+tags: [Mahkota, 報道, 補選, 馬來西亞]
+category: 報道
 draft: false
 ---
 # 暂无内容。
