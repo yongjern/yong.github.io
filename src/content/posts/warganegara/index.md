@@ -6,7 +6,9 @@ tags: [公民权, 報道, 宪法, 馬來西亞]
 category: 報道
 draft: false
 ---
-:::note[閲讀之前請注意！] 在下议院中 (Dewan Rakyat)，若通过了一个法案，即代表法案不会立刻生效。
-根据马来西亚联邦宪法中，若法案涉及国民权问题 (Kewargenegaraan)，即代表需要通过上议院 (Dewan Negara)的通过以及王室 (Majilis Raja-Raja) 的同意。:::
+:::note[閲讀之前請注意！] 
+在下议院中 (Dewan Rakyat)，若通过了一个法案，即代表法案不会立刻生效。
+根据马来西亚联邦宪法中，若法案涉及国民权问题 (Kewargenegaraan)，即代表需要通过上议院 (Dewan Negara)的通过以及王室 (Majilis Raja-Raja) 的同意。
+:::
 
 # 修宪内容
