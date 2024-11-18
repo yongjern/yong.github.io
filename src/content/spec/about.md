@@ -12,3 +12,7 @@
 感謝 Github Pages 可以給我架設網站的空間，不用特地去找 Wordpress 或者其他供應商了！  
 也感謝這個頁面範本的作者，**saicaca/fuwari**！範本裏面有完整的教學可以查看如何開啓網頁噢！  
 ::github{repo="saicaca/fuwari"}
+
+# 页面隐私权/政策
+请[点击这里](https://jieern.serveblog.com/policy)来查看网页隐私权以及政策。  
+做任何对此网站的引用之前，请先询问原作者的意见。再次感谢您阅读到这里 :)
