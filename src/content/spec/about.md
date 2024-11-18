@@ -14,5 +14,5 @@
 ::github{repo="saicaca/fuwari"}
 
 # 页面隐私权/政策
-请[点击这里](https://jieern.serveblog.com/policy)来查看网页隐私权以及政策。  
+请[点击这里](https://jieern.serveblog.net/policy)来查看网页隐私权以及政策。  
 做任何对此网站的引用之前，请先询问原作者的意见。再次感谢您阅读到这里 :)
