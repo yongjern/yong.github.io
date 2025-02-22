@@ -34,7 +34,8 @@ draft: false
 其實他也不止可以叫車，它也可以幫你解決一些問題，如：**食物外送，物品外送，訂巴士票，行動支付等等**。所以我還是建議你在來到之前就先下載好 Grab。  
 在不同的地區都會有不同的價錢。像我在兩天内坐的三次 Grab，基本上就是 **1km = RM1.00 - RM2.00**，基本上除了公共交通以外，CP值也還可以的方法。這裏也提供當天坐 Grab 的價錢，基本上應該是可以幫助到一點點
 - Putrajaya Sentral > Putera Square : RM7.50 (來回 : RM15.00)
-- Museum & Art Galery Bank Negara > Terminal Bersepadu Selatan (TBS) : RM16.50  
+- Museum & Art Galery Bank Negara > Terminal Bersepadu Selatan (TBS) : RM16.50     
+
 在訂地方時，他會在一些建築中顯示不同的接駁點，如 **Terminal Bersepadu Selatan 有 TBS Level 1 Pick Up / LRT BTS (SP15) - Gate A / KLIA Transit (ERL)這三個接駁點**。如果你不知道你需要的地方在哪裏，都可以去問在那邊的**工作人員**來協助你。盡量選擇距離自己比較靠近的接駁點。  
 你也可以透過打電話的方式跟司機討論你目前在的方位在哪裏，以及還有一些其他的訊息都可以跟司機溝通。
 如果你選擇使用 Cash 的話，**請一定要在目的地抵達前準備好自己的錢**，并且**盡量使用零錢**，因爲有一部分的司機可能不會有零錢。如果你真的很好心的話，也可以考慮叫司機**不用找零錢**，或許可以讓司機比較高興噢！
