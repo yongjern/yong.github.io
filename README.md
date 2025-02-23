@@ -1,63 +1,12 @@
-# 🍥Fuwari
+# Yong's 資料研究所 · Github
+歡迎來到 Yong's 資料研究所的 Github 頁面。非常開心能在這個頁面上看見各位！  
+但在開始瀏覽網站之前，有幾件事情是你需要知道的！  
 
-A static blog template built with [Astro](https://astro.build).
-
-[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**📦 Old Hexo Version**](https://github.com/saicaca/hexo-theme-vivia)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 中文**](https://github.com/saicaca/fuwari/blob/main/README.zh-CN.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 日本語**](https://github.com/saicaca/fuwari/blob/main/README.ja-JP.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 한국어**](https://github.com/saicaca/fuwari/blob/main/README.ko.md)&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
-[**🌏 Español**](https://github.com/saicaca/fuwari/blob/main/README.es.md)
-
-> README version: `2024-09-10`
-
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
-
-## ✨ Features
-
-- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
-- [x] Smooth animations and page transitions
-- [x] Light / dark mode
-- [x] Customizable theme colors & banner
-- [x] Responsive design
-- [ ] Comments
-- [x] Search
-- [ ] TOC
-
-## 🚀 How to Use
-
-1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
-2. To edit your blog locally, clone your repository, run `pnpm install` AND `pnpm add sharp` to install dependencies.
-   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
-3. Edit the config file `src/config.ts` to customize your blog.
-4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
-5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
-
-## ⚙️ Frontmatter of Posts
-
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
----
-```
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                             | Action                                           |
-|:------------------------------------|:-------------------------------------------------|
-| `pnpm install` AND `pnpm add sharp` | Installs dependencies                            |
-| `pnpm dev`                          | Starts local dev server at `localhost:4321`      |
-| `pnpm build`                        | Build your production site to `./dist/`          |
-| `pnpm preview`                      | Preview your build locally, before deploying     |
-| `pnpm new-post <filename>`          | Create a new post                                |
-| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
-| `pnpm astro --help`                 | Get help using the Astro CLI                     |
+1. 此網站使用的範本為 [Fuwari](https://github.com/saicaca/fuwari)，有需要的可以到該作者的 Rep. 拷貝一份作爲你自己的網站。
+   此網站已經經過一些魔改，包括增加 Policy 頁面等等功能。請不要直接拷貝此網站，如需要請自行找尋源代碼查看。
+2. 謝絕任何搬運工搬運網站内的任何影片，圖片以及文字内容。您可以搬運的文字，圖片及影片内容僅限於若該影片，文字和圖片資料的出處為其他來源。
+   我方 (Yong, 以下簡稱爲作者) 將會對任何嘗試搬運的媒體，文章使用法律手段保護網站内的智慧財產權力，因此還請不要隨意搬運網站内的資訊，3Q
+   任何資訊你都可以查看這裏 : [Yong's 資料研究所 隱私權/條款](https://jieern.serveblog.net/policy/)
+3. 作者及網站不會透過網站的名義索要您的個人敏感訊息，包括身份證字號，地址，出生年月日等敏感訊息。  
+  
+以上，希望您逛網站愉快。
